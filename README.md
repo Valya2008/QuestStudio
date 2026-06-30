@@ -50,7 +50,7 @@
 3. Запустить установленное приложение
 
 ## Структура проекта  
-'''
+```
 app/src/main/java/com/example/queststudio/
 │  
 ├── activities/  
@@ -86,7 +86,7 @@ app/src/main/java/com/example/queststudio/
     ├── Actor.java                      # Модель актёра  
     ├── Booking.java                    # Модель бронирования  
     └── Review.java                     # Модель отзыва  
-    '''
+```
 
 ## Роли пользователей
 **Гость (неавторизованный)**  
